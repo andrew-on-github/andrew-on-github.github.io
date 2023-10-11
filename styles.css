@@ -2,8 +2,9 @@ body {
   background-color: palegreen;
   font-family: cursive;
 }
+
 h1 {
-  color: bique;
+  color: bisque;
   text-align: center;
 }
 
@@ -11,5 +12,8 @@ h1 {
   margin: 10px;
   padding: 10px;
   background-color: goldenrod;
+  display: flex;
 }
-
+.assign img {
+  width: 200px;
+}
